@@ -104,6 +104,26 @@ body {
 
 }
 
+.size-icon {
+    display: flex;
+    justify-content: center;
+    margin-left: 70px;
+    height: 15px;
+    width: 15px;
+
+}
+
+.size-icon img {
+    padding-bottom: 20px;
+    margin-right: 40px;
+    height: 15px;
+    width: 15px;
+
+}
+
+
+
+
 @media screen and (max-width: 576px) {
 
     .banner {
@@ -201,6 +221,8 @@ p {
     border: 1px solid rgb(216, 216, 216);
     border-radius: 12px;
 }
+
+
 
 .view-all {
     height: 40px;
